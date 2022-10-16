@@ -1,10 +1,13 @@
 # Welcome to my website.
 
-My name is Michael Thompson. I am Math a educator.
+My name is Michael Thompson.
 
-## Position 
+## Professional
 
-I am currently a Graduate Teaching Associate at Cal Poly Pomona.
+* Graduate Teaching Associate at Cal Poly Pomona. Current courses:
+  * An Introduction to Statistics
+  * A Survey of Mathematics
+* Summer School Math Teacher at Dean L. Shively Middle School
 
 ## Academic 
 
